@@ -1,5 +1,5 @@
 # fountaintrendingbot
-Currently, this is just a script that finds recent Fountain Trending Bot on Nostr and prints out the top results.
+Currently, this is just a script that finds recent Fountain tracks and podcasts and prints out the top results.
 
 ## Usage
 
