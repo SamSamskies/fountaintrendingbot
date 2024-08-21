@@ -1,0 +1,33 @@
+{
+  "name": "fountaintrendingbot",
+  "version": "0.1.0",
+  "description": "Script that helps prepare content for the Fountain Trending Bot to post on Nostr.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamSamskies/fountaintrendingbot.git"
+  },
+  "keywords": [
+    "nostr",
+    "bitcoin",
+    "lightning",
+    "fountain",
+    "podcasts",
+    "music"
+  ],
+  "author": "Sam Samskies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamSamskies/fountaintrendingbot/issues"
+  },
+  "homepage": "https://github.com/SamSamskies/fountaintrendingbot#readme",
+  "dependencies": {
+    "light-bolt11-decoder": "3.1.1",
+    "nostr-tools": "2.7.0",
+    "ws": "^8.17.0"
+  }
+}
